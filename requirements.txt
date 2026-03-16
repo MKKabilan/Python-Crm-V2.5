@@ -1,0 +1,14 @@
+tkcalendar
+openpyxl
+matplotlib
+
+Recommended versions (more stable)
+tkcalendar==1.6.1
+openpyxl==3.1.2
+matplotlib==3.8.2
+
+crm_project/
+│
+├── crm.py
+├── crm_v2_5.db
+├── requirements.txt
